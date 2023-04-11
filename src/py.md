@@ -14,7 +14,7 @@ To get started with Python you will find various resources online since it is a 
 
 - Once you have downloaded Visual Studio Code, you will need to download the **Python extension**.
   
-![Python](PY.png)
+![Python](/asset/py.png)
 
 - Once you have this installed, you will need to download **Homebrew**, which is a Python interpreter for Visual Studio Code. You can do this by going into your terminal and typing this:
 
@@ -26,7 +26,7 @@ brew install python3
 
 - If you would like a debugger, you may download the  **Python C++ Debugger**
 
-![Debugger](Debug.png)
+![Debugger](/asset/debug.png)
 
 ---
 Once you start thinking about a first project to get started with Python, you have many ideas, such as Hangman, rock paper, scissors, tic tac toe, connect four, or even Tetris.

@@ -16,7 +16,7 @@ If you want to learn how to code in JavaScript, all you need is motivation and d
 - There you can search which **JavaScript extension** is available for code snippets.
 - Since VS Code already has JavaScript IntelliSense, debugging, formatting, code navigation, and refactorings. All you need to do is **download JavaScript (ES6) code snippets**.
   
-![ES6](ES6.png)
+![ES6](/asset/es6.png)
 
 - These snippets will help since they are templates that make it easier to enter repeating code patterns, like loops or conditional statements.
 - With everything downloaded and running, you start to learn the language and start a project to familiarize yourself with it.
@@ -27,7 +27,7 @@ Some ideas for a first project are a stopwatch, clock, making the pong game, cal
 
 Once you have gotten used to JavaScript, try to learn TypeScript
 
-![TS](TS.png)
+![TS](/asset/ts.png)
 
 ## Review Questions
 
